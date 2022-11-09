@@ -77,7 +77,7 @@ header label{
     display: none;
 }
 
-@media(max-width:991px){
+/* @media(max-width:991px){
     header{
         padding:20px;
     }
@@ -111,4 +111,4 @@ header label{
     #menu-bar:checked ~ .navbar{
     display: initial;
     }
-}
+} */
